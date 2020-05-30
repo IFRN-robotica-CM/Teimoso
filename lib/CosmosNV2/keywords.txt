@@ -1,0 +1,96 @@
+#######################################
+# Syntax Coloring Map CosmosNV2
+# by Vinícios Silva
+# 	github: @ViniciosSilva811
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+CosmosNV2	KEYWORD1
+SensorDeRefletancia	KEYWORD1
+SensorDeToque	KEYWORD1
+SensorDeDistancia	KEYWORD1
+SensorDeCor	KEYWORD1
+AltoFalante	KEYWORD1
+Motor	KEYWORD1
+ServoMotor	KEYWORD1
+Tela	KEYWORD1
+PortaCOM	KEYWORD1
+Led	KEYWORD1
+Botao	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+ler	KEYWORD2
+configurarModo	KEYWORD2
+lerEstado	KEYWORD2
+iniciar	KEYWORD2
+obterValores	KEYWORD2
+bipar	KEYWORD2
+tocar	KEYWORD2
+configurarPonteH	KEYWORD2
+configurarVelocidade	KEYWORD2
+girar	KEYWORD2
+parar	KEYWORD2
+gravar	KEYWORD2
+anexar	KEYWORD2
+desanexar	KEYWORD2
+configurarCursor	KEYWORD2
+mostrar	KEYWORD2
+limpar	KEYWORD2
+configurarTamanhoDoTexto	KEYWORD2
+configurarCorDoTexto	KEYWORD2
+escrever	KEYWORD2
+desenharImagem	KEYWORD2
+enviar	KEYWORD2
+existeDadoDisponivel	KEYWORD2
+acender	KEYWORD2
+apagar	KEYWORD2
+alternar	KEYWORD2
+inverter	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+A1	ANALOGICO	Constants
+A2	DIGITAL	Constants
+A1	LITERAL1	Constants
+A2	LITERAL1	Constants
+A3	LITERAL1	Constants
+A4	LITERAL1	Constants
+A5	LITERAL1	Constants
+A6	LITERAL1	Constants
+A7	LITERAL1	Constants
+A8	LITERAL1	Constants
+A9	LITERAL1	Constants
+A10	LITERAL1	Constants
+B	LITERAL1	Constants
+C	LITERAL1	Constants
+D	LITERAL1	Constants
+E	LITERAL1	Constants
+L1	LITERAL1	Constants
+L2	LITERAL1	Constants
+L3	LITERAL1	Constants
+L4	LITERAL1	Constants
+L5	LITERAL1	Constants
+L6	LITERAL1	Constants
+L7	LITERAL1	Constants
+M1	LITERAL1	Constants
+M2	LITERAL1	Constants
+M3	LITERAL1	Constants
+M4	LITERAL1	Constants
+L298N	LITERAL1	Constants
+L293D	LITERAL1	Constants
+S1	LITERAL1	Constants
+S2	LITERAL1	Constants
+S3	LITERAL1	Constants
+S4	LITERAL1	Constants
+S5	LITERAL1	Constants
+PRETO	LITERAL1	Constants
+BRANCO	LITERAL1	Constants
+INVERSO	LITERAL1	Constants
